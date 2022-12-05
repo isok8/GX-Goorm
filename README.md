@@ -31,7 +31,7 @@ wget -N https://raw.githubusercontent.com/jiaosir-cn/GX/master/misaka.sh && bash
 ```
 地址：IP
 端口：转发的端口
-默认UUID：8d4a8f5e-c2f7-4c1b-b8c0-f8f5a9b6c384
+默认UUID：9ac08a82-b671-425b-e1c1-1556a617e7ba
 vmess额外id：0
 加密：auto 或 none
 传输协议：ws
